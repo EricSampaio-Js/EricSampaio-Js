@@ -12,7 +12,7 @@
     <img height="20"
         src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EricSampaio-Js)]           (https://github.com/EricSampaio-Js">
     <img height="20"
-        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-sampaio-   66846a136/)](https://www.linkedin.com/in/eric-sampaio-66846a136">
+        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-sampaio-   66846a136/)]https://www.linkedin.com/in/eric-sampaio-66846a136">
 </div>
 
 <h2>Langueges and Tools</h2>
